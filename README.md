@@ -1,13 +1,13 @@
-# goit-js-hw-12
+# Pixabay Image Search App
 
-**Проєкт:** Пошук зображень через Pixabay API з пагінацією та модальним переглядом.
+**Project:** An image search application built with the Pixabay API, featuring pagination and image preview in a modal window.
 
-**Функціонал:**  
-- Пошук за ключовим словом  
-- Відображення 15 зображень за запитом  
-- Кнопка Load More  
-- Модальне перегортання зображень (SimpleLightbox)  
-- Повідомлення про кінець результатів  
+**Features:**  
+- Image search by keyword  
+- Display of 15 images per request  
+- Load More button for pagination  
+- Image preview in a modal window using SimpleLightbox  
+- Notification when the end of search results is reached  
 
-**Технології:**  
+**Technologies:**  
 JavaScript (ES6 Modules, async/await), Vite, Axios, SimpleLightbox, iziToast, Prettier
